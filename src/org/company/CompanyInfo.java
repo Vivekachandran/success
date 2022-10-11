@@ -14,5 +14,7 @@ System.out.println("g:"+ g);
 		CompanyInfo c=new CompanyInfo();
 		c.companyName();
 		c.companyName(316531,'f');
+		System.out.println("viv");
 	}
+	
 }
